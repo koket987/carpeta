@@ -1,4 +1,8 @@
 Hola mundo
+<<<<<<< HEAD
 sanchez
 
 Santiago es mk y lo gusta sofia
+=======
+sanchez prb
+>>>>>>> 1903436258e3b8a3106c4a19627da071c9207b37
