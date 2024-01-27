@@ -5,11 +5,22 @@ sanches
 <<<<<<< HEAD
 sanchez
 
-Santiago es mk y lo gusta sofia
+Santiago le gusta sofia
 =======
 sanchez prb
 >>>>>>> 1903436258e3b8a3106c4a19627da071c9207b37
 
 Santiago va a pasar ciclos
+<<<<<<< HEAD
+
+KLK
+=======
 >>>>>>> f2aa55179a093910b2a4b641d4f99156d1965e22
+<<<<<<< HEAD
 Sapo aaaa
+=======
+Sapo
+>>>>>>> dc7a9540e105e177da419e68f690aaa7ff8a4df4
+
+La buena rey
+>>>>>>> 79c5663904a30dc8918aa6f28190b2a2708a8e62
